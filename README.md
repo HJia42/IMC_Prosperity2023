@@ -1,6 +1,6 @@
 # IMC_Prosperity2023
 
-This is work from someone learning about algorithmic trading as well as working on improving CS/Coding skills. Currently top 50 working alone out of 1700+ active teams and 7000+ total teams who dropped out at one point or another. Overall, I would first like to thank IMC Trading for the oppertunity for not only running an incredible competition but also designing it in a way that challenges what seems to be multiple asepects of a quant trader while also doing so on a smooth and good learning curve starting with a simple task to more and more complicated tasks.
+This is work from someone learning about algorithmic trading as well as working on improving CS/Coding skills as I am learning more or less on my own (Try not to use R/R Markdown). Currently top 50 working alone out of 1700+ active teams and 7000+ total teams who dropped out at one point or another. Overall, I would first like to thank IMC Trading for the oppertunity for not only running an incredible competition but also designing it in a way that challenges what seems to be multiple asepects of a quant trader while also doing so on a smooth and good learning curve starting with a simple task to more and more complicated tasks.
 
 Leasons:
 
